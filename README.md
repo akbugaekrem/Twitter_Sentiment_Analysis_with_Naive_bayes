@@ -1,5 +1,5 @@
 ﻿# Twitter_Sentiment_Analysis_with_Naive_bayes
-
+## From Coursera Course Twitter_Sentiment_Analysis Projekt
 
 NLP: Twitter Sentiment Analysis
 Now we will perform Twitter sentiment analysis. We will accomplish this by completing each task in the project:
