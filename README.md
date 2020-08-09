@@ -2,7 +2,9 @@
 ## From Coursera Course Twitter_Sentiment_Analysis Projekt
 
 ### NLP: Twitter Sentiment Analysis
-
+<hr>
+### Accuracy_Score : 0.94
+<hr>
 We will accomplish this by completing each task in the project:
 
 
